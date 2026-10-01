@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack developer who loves building AI-powered products. I'm an ECE student at MSIT Delhi, and I built Kahani, an AI storytelling platform for children. I enjoy turning ideas into working apps.
+Full-stack developer who loves building AI-powered products. I'm an ECE student at MSIT Delhi
 
 
 ## 🌐 Socials:
